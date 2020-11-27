@@ -28,6 +28,5 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="http://maaviasghar-portfolio.surge.sh"><img alt="Website" src="https://img.shields.io/badge/Website-maaviasghar-portfolio.surge.sh-blue?style=flat-square&logo=google-chrome"></a>
 <a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-maavia.asghar.96@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
